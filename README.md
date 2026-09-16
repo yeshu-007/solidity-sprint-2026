@@ -1,8 +1,17 @@
 # Solidity Sprint 2026
 
-Profile and session index for the Solidity learning sprint.
+**Name:** Yeshwanth R  
+**Enrolment ID:** AU24UG-028 
+**University:** Atria University  
+**Testnet wallet address:** 0x09b6EB1FbdfBea3a2f2247af1603dFe36cF46e8D
 
 ## Sessions
 
-- [Session 01](session-01/README.md): Notice board contract
-- [Session 02](session-02/README.md): Student registry contract
+| Session | Topic                                 | Assignment       | Status    |
+| ------- | ------------------------------------- | ---------------- | --------- |
+| 01      | Introduction to Blockchain & Solidity | Simple Storage   | Submitted |
+| 02      | Reference Types & Functions           | Student Registry |
+| 03      | ##############################        |                  |
+| 03      | ##############################        |                  |           |
+| 03      | ##############################        |                  |           |
+| 03      | ##############################        |                  |           |
