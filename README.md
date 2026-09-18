@@ -10,7 +10,7 @@
 | Session | Topic                                 | Assignment       | Status    |
 | ------- | ------------------------------------- | ---------------- | --------- |
 | 01      | Introduction to Blockchain & Solidity | Simple Storage   | Submitted |
-| 02      | Reference Types & Functions           | Student Registry |
+| 02      | Reference Types & Functions           | Student Registry | Submitted |
 | 03      | ##############################        |                  |
 | 03      | ##############################        |                  |           |
 | 03      | ##############################        |                  |           |
