@@ -1,6 +1,6 @@
 # Session 02
 
-Build a student registry contract.
+Build a simple, minimal student registry contract.
 
 ## Contract
 
