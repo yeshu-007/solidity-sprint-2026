@@ -3,7 +3,9 @@
 Make the student registry contract better with access controls, events and interface.
 
 **Name:** Yeshwanth R
+
 **Enrolment ID:** AU24UG-028
+
 **Date submitted:** 18/09/2026
 
 ## Contract
