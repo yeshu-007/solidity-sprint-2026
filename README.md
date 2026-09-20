@@ -11,7 +11,7 @@
 | ------- | ------------------------------------- | ---------------- | --------- |
 | 01      | Introduction to Blockchain & Solidity | Simple Storage   | Submitted |
 | 02      | Reference Types & Functions           | Student Registry | Submitted |
-| 03      | Make Your Contract observable   &     | Student Registry2| Submitted |
+| 03      | Make Your Contracts observable  &     | Student Registry2| Submitted |
 |         | Controlled                            |                  |           |
-| 04      | ##############################        |                  |           |
+| 04      | Ether Handling and Contract Security  | Ether Wallet     | Submitted |
 | 05      | ##############################        |                  |           |
