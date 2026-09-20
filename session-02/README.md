@@ -4,7 +4,9 @@ Build a simple, minimal student registry contract.
 
 
 **Name:** Yeshwanth R
+
 **Enrolment ID:** AU24UG-028
+
 **Date submitted:** 16/09/2026
 
 ## Contract

@@ -3,7 +3,9 @@
 Build a simple notice board contract.
 
 **Name:** Yeshwanth R
+
 **Enrolment ID:** AU24UG-028
+
 **Date submitted:** 15/09/2026
 
 ## Contract
