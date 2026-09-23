@@ -18,5 +18,7 @@
 |         | Controlled                            |                  |           |
 | 04      | Ether Handling and Contract Security  | Ether Wallet     | Submitted |
 | 05      | ERC-20 Token Development              | ERC20_token      | Submitted |
-| 05      | NFT Development (ERC-721)             | NFT_COntract     | Submitted |
-| 05      | ##############################        |                  |           |
+| 06      | NFT Development (ERC-721)             | NFT_Contract     | Submitted |
+| 07      | Hardhat & Foundry Workshop            | Hardhat ERC20    | Submitted |
+|         |                                       | Contract         |           |
+
